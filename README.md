@@ -74,10 +74,6 @@ jupyter notebook analysis.ipynb
 - **Pandas** - работа с данными
 - **Matplotlib & Seaborn** - визуализация
 
-## 📝 Автор
-
-- ваше имя / ваш GitHub
-
 ## 📄 Лицензия
 
 Этот проект лицензирован под лицензией MIT - см. файл [LICENSE](LICENSE) для деталей
@@ -91,12 +87,4 @@ jupyter notebook analysis.ipynb
 4. Push в ветку (`git push origin feature/amazing-feature`)
 5. Откройте Pull Request
 
-## 📞 Контакты
 
-- GitHub: [ваш GitHub профиль]
-- Email: ваш@email.com
-
----
-
-**Создано**: май 2026  
-**Последнее обновление**: май 2026
